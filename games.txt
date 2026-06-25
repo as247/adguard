@@ -5,6 +5,13 @@
 ! Syntax: AdBlock
 ! Last updated: 25 Jun 2026
 !
+/.*unblocked.*/
+/.*game.*/
+/.*arcade.*/
+/.*\.games$/
+/.*\.play$/
+/.*\.fun$/
+/.*\.lol$/
 ||yandex.com^
 ||poki.com^
 ||crazygames.com^
@@ -57,12 +64,7 @@
 ||juegosjuegos.com^
 ||jeux.fr^
 ||jeuxjeuxjeux.fr^
-||unblockedgames66.com^
-||unblockedgames67.com^
-||unblockedgames76.com^
-||unblockedgames77.com^
-||unblockedgames911.net^
-||unblockedgamesworld.com^
 ||ubg365.github.io^
 ||ubg44.github.io^
 ||ubg100.github.io^
+||itch.io^
